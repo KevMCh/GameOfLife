@@ -1,0 +1,12 @@
+.DS_Store
+*.pydevproject
+.metadata
+.gradle
+.classpath
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
